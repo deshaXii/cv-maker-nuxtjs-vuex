@@ -1,4 +1,4 @@
-# Nuxt.js starter template
+# cv maker ( nuxtjs - vuex )
 
 [NUXTJS](https://github.com/nuxt/nuxt.js)
 
